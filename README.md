@@ -1,4 +1,4 @@
-# Jmeter Jtl Xml Output Parser
+# Jmeter Xml Output Parser
 
 ## Description:
 This parser will properly format a jmeter jtl file output for use with the Universal Agent. There is a sample output file in the test directory.
